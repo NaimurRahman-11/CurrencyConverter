@@ -1,0 +1,30 @@
+.submit{
+    border-radius: 5px;
+    height: 30px;
+    cursor: pointer;
+    background-color: #74b9ff;
+    margin-left: 28%;
+    border: none;
+    color: white;
+}
+
+.submit:hover{
+    color: white;
+    background-color: #6c5ce7;
+    transition-duration: 0.4s;
+    box-shadow: 2px 2px 2px #888888;
+       
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #f1f2f6;
+}
+
+.container{
+    width: 50%;
+    margin: auto;
+    margin-top: 7%;
+    font-family: sans-serif;
+}
